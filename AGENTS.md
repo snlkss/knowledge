@@ -39,9 +39,9 @@
 - Git 已安装。
 - GitHub CLI 未安装。
 - GitHub 仓库地址已提供。
-- 远程 Push 尚未验证。
+- 远程 Push 已验证。
 
-远程仓库使用 `https://github.com/snlkss/knowledge.git`。
+远程仓库使用 `https://github.com/snlkss/knowledge.git`。本仓库本地 Git 已配置 `http.version=HTTP/1.1`，避免推送时连接被重置。
 
 ## 对外汇报
 
