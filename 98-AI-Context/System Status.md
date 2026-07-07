@@ -17,8 +17,9 @@
 - GitHub 仓库地址已提供：`https://github.com/snlkss/knowledge.git`
 - 当前 Vault 已配置远程仓库：`origin`
 - GitHub Push 已验证：`master -> origin/master`
-- GitHub CLI 未安装
-- GitHub 登录状态未通过 GitHub CLI 检查，因为本机未安装 `gh`
+- GitHub CLI 已安装：`gh version 2.96.0`
+- GitHub CLI 尚未登录：需要执行 `gh auth login`
+- GitHub 登录状态已检查：尚未登录
 - GitHub Push 已通过 Git HTTPS 完成
 - Obsidian Web Clipper 仍可能保存到 `Clippings`，建议改为 `00-Inbox/Downloaded`
 
@@ -26,4 +27,4 @@
 
 - 主要研究领域
 - 主要内容输出平台
-- 是否需要安装 GitHub CLI
+- 是否需要登录 GitHub CLI

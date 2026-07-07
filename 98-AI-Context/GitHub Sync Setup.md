@@ -5,7 +5,8 @@
 - 本地 Git 已初始化。
 - GitHub 远程仓库已配置：`https://github.com/snlkss/knowledge.git`
 - 首次 Push 已完成：`master -> origin/master`
-- GitHub CLI 未安装。
+- GitHub CLI 已安装：`gh version 2.96.0`。
+- GitHub CLI 尚未登录。
 - 本地 Git 已配置 `http.version=HTTP/1.1`，用于避免 HTTPS 推送连接重置。
 
 ## 需要用户提供

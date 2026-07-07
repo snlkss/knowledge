@@ -37,7 +37,8 @@
 ## GitHub 同步状态
 
 - Git 已安装。
-- GitHub CLI 未安装。
+- GitHub CLI 已安装：`gh version 2.96.0`。
+- GitHub CLI 尚未登录。
 - GitHub 仓库地址已提供。
 - 远程 Push 已验证。
 
